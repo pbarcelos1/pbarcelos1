@@ -1,7 +1,7 @@
 # - 👋 Olá, sou Pedro Barcelos
 - Sou estudante de Ciência de Dados e IA. Utilizo linguagens como Python e Java, gosto de trabalhar com projetos para análise de dados e também com programação orientada a objetos.
 
-## [![LINKEDIN](https://github.com/pbarcelos1/pbarcelos1/blob/main/LinkedIn.png)](https://br.linkedin.com/in/pedrobarcelos)
+[![LINKEDIN](https://github.com/pbarcelos1/pbarcelos1/blob/main/LinkedIn.png)](https://br.linkedin.com/in/pedrobarcelos)
 
 <!---
 pbarcelos1/pbarcelos1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
