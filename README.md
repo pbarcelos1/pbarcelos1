@@ -1,6 +1,8 @@
 # 👋 Olá, sou Pedro Barcelos
 Sou estudante de Ciência de Dados e IA. Utilizo linguagens como Python e Java, gosto de trabalhar com projetos para análise de dados e também com programação orientada a objetos. 
-<a href="https://www.linkedin.com/in/felipefreitassilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+<a href="https://www.linkedin.com/in/pedrobarcelos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - [💻GitHub](https://github.com/pbarcelos1)
 
 <!---
