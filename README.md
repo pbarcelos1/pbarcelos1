@@ -1,4 +1,6 @@
-# 👋 Olá, sou Pedro Barcelos
+
+#       👋 Olá, sou Pedro Barcelos
+
 Sou estudante de Ciência de Dados e IA. Utilizo linguagens como Python e Java, gosto de trabalhar com projetos para análise de dados e também com programação orientada a objetos. 
 
 <div align='center'>
